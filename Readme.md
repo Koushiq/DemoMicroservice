@@ -20,7 +20,7 @@ which enables services to call functions on other machines as if they were local
 
 
 <h1> Differences </h1>
-<image src="/pictures/gRPCvsREST.png">
+<image src="/pictures/gRPCvsREST.jpg">
 <h1>When to use gRPC vs. REST </h1>
 Rest : REST is therefore the ideal choice if you need to create a public API, <br>
 	   as developers at other organizations will be able to easily integrate it into their own applications.<br>
